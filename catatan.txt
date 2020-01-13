@@ -1,0 +1,49 @@
+A. latar belakang 
+- gambaran umum tentang teknologi informasi yang relevan dengan judul.
+- kondisi saat ini di dalam organisasi yang membutuhkan program tsb.
+- Memiliki permasalahan apa?
+- alternative solusi yang ditawarkan.
+
+B. maksud dan tujuan kegiatan
+- maksudnya apa dari pengembangan aplikasi tsb.
+- tujuan yang ingin dicapai itu apa?
+contoh: melakukan rancang bangun sistem informasi
+tujuan: terbentuknya sebuah pusat sistem informasi apa..
+	tujuan selanjutnya apa? contoh terbentuknya tata kota yang bisa membantu 	sistem informasi.
+	meningkatkan pelayanan .....
+C. ruang lingkup
+- lingkup pekerjaan, harus sama dengan KAK.
+minimal ada SDLC. boleh disederhanakan.
+ada informasi: 
+1. konten dari sistem informasi yang dibangun, yang terdiri dari input proses output.
+2. Persyaratan sistem. minimum sistem, misal software, hardware dll.
+3. komponen sistem, misal mysql, windows, kebutuhan dalam pembuatan sistem.
+- lingkup wilayah.
+contoh, malang, jatim atau se indonesia, atau secabang saja?
+D. output pekerjaan
+1. laporan kegiatan.
+2. program.
+3. userguide.
+
+BAB 2
+
+A. Tinjauan umum lokasi studi
+- informasi umum atau gambaran umum tentang lokasi dimana kita mengerjakan proyek.
+- spesifikasi program yang akan dibuat.
+- hasil observasi hingga muncul spesifikasi sistem informasi yang akan dibangun.
+- aktor yg trlibat
+- hak akses
+- spek kebutuhan perangkat lunak.
+. master
+. transaksi
+. reporting
+
+BAB 3
+A. Metodologi
+metode apa yang akan dikembangkan dalam membuat sistem informasi tsb.
+B. metode yang digunakan untuk membuat program, jika memang dibutuhkan.
+
+BAB 4
+usecase dan sub usecase, class diagram, GUI.
+kiri penyedia data, kanan pengguna data.
+
