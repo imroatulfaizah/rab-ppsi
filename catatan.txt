@@ -45,5 +45,6 @@ B. metode yang digunakan untuk membuat program, jika memang dibutuhkan.
 
 BAB 4
 usecase dan sub usecase, class diagram, GUI.
-kiri penyedia data, kanan pengguna data.
+
+logo dan ttd bagian kiri penyedia data, kanan pengguna data.
 
